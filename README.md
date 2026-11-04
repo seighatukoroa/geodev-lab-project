@@ -6,3 +6,4 @@ See project-brief-md for the full brief.
 Week 5: I setup python, Vs_code, terminal, hello.py runs
 Week 7: ward.csv, analyse.py, convert each area and classsifies each ward.
 week 8: inspect_data.py, statedata.csv, smallest,largest and count state
+week 9: Before_Refactor, AfterRefactor, clean values, summary.py, note.txt
